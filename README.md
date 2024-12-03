@@ -200,8 +200,8 @@ alembic.ini                 # Конфигурация Alembic для мигра
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Raynece/TestTaskWithFastAPI.git
-   cd TestTaskWithFastAPI
+   git clone https://github.com/Raynece/BothTasks.git
+   cd BothTasks
    ```
 
 2. Создайте виртуальное окружение и активируйте его:
@@ -213,4 +213,4 @@ alembic.ini                 # Конфигурация Alembic для мигра
 
 3. Установите зависимости:
    ```bash
-   pip install -
+   pip install -r requirements.txt
