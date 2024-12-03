@@ -98,8 +98,8 @@ alembic.ini                 # Конфигурация Alembic для мигра
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Raynece/book-library-api.git
-   cd book-library-api
+   git clone https://github.com/Raynece/BothTasks.git
+   cd BothTasks
    ```
 
 2. Создайте виртуальное окружение и активируйте его:
